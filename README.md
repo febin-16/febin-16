@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ### Connect 
+<a href="https://www.linkedin.com/in/niranjannb/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=25px height=25px></a>
+<a href="https://twitter.com/niranjan_neerub"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=25px height=25px></a>
+<a href="https://www.instagram.com/niranjan_neeru_b/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=25px height=25px></a> -->
+
+<!--
+**niranjanneeru/niranjanneeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--
+<a href="https://github.com/aromaldev/OCR-Malayalam">
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=aromaldev&repo=OCR-Malayalam&&theme=radical&cache_seconds=86400&show_icons=true" />
+</a>
+-->
+
+
+|||
+| ------------- | ------------- |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjanneeru&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact&theme=radical&cache_seconds=86400"> |
+
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/niranjanneeru" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<!-- <a href="" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/niranjannb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+<a href="https://twitter.com/niranjan_neerub" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
+</p>
